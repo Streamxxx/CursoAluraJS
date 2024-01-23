@@ -26,3 +26,10 @@ while(numeroSecreto != numeroUsuario){
         }
     }
 }
+
+/*
+git status
+git add.
+git checkout master o main
+git push origin main
+*/
